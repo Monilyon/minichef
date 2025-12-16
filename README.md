@@ -25,30 +25,30 @@ Minichef es una página que presenta diferentes recetas de cocina organizadas en
 ## Estructura del Proyecto
 
 El proyecto está construido con **Minify.js** y **Bootstrap** y consta de los siguientes archivos y directorios principales:
-C:|
-  ├───public
-  │   └───mockdata
-  └───src
-      ├───img
-      ├───js
-      │   ├───components
-             ├───card.js
-             ├───footer.js
-             ├───navbar.js            
-      │   └───views
-             ├───detail.js
-             ├───home.js
-             ├───login.js
-             ├───template.js
-      │   ├───auth.js
-      │   ├───bootstrap.js
-      │   ├───main.js
-      │   ├───navigation.js
-      │   ├───state.js
-      │   ├───utils.js
-      │   ├───views.js
-      └───scss
-      └───index.html
+C:
+├───public
+│ └───mockdata
+└───src
+├───img
+├───js
+│ ├───components
+│ │ ├───card.js
+│ │ ├───footer.js
+│ │ ├───navbar.js
+│ └───views
+│ ├───detail.js
+│ ├───home.js
+│ ├───login.js
+│ ├───template.js
+│ ├───auth.js
+│ ├───bootstrap.js
+│ ├───main.js
+│ ├───navigation.js
+│ ├───state.js
+│ ├───utils.js
+│ ├───views.js
+└───scss
+└───index.html
 ## Para llevar a cabo este proyecto he utilizado:
 * HTML5: Estructura del contenido de la página web.
 * CSS3: Estilos para el diseño y la presentación de la interfaz.
