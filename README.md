@@ -25,6 +25,7 @@ Minichef es una página que presenta diferentes recetas de cocina organizadas en
 ## Estructura del Proyecto
 
 El proyecto está construido con **Minify.js** y **Bootstrap** y consta de los siguientes archivos y directorios principales:
+```
 C:
 ├───public
 │ └───mockdata
@@ -49,6 +50,8 @@ C:
 │ ├───views.js
 └───scss
 └───index.html
+```
+
 ## Para llevar a cabo este proyecto he utilizado:
 * HTML5: Estructura del contenido de la página web.
 * CSS3: Estilos para el diseño y la presentación de la interfaz.
