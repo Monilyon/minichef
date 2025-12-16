@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "name": "Tiramisu",
+      "tiempo": "00:50 min",
+      "favorito":false,
+      "description": "El tiramisú es un postre clásico de la cocina italiana, conocido por su sabor suave y cremoso.",
+      "image": "/img/tiramisu.JPG",
+      "ingredientes": [
+      { "name": "Queso mascarpone", "quantity": "250g" },
+        { "name": "huevo", "quantity": "2ud" },
+        { "name": "azucar", "quantity": "50g" },
+        { "name": "bizcochos de soletilla", "quantity": "1 paquete" },
+        { "name": "Cacao en polvo", "quantity": "al gusto" },
+        { "name": "café fuerte y frio", "quantity": "250ml" }
+      ],
+      "pasos":"Preparamos el café y lo dejamos enfriar. Para  acelerar el proceso lo podemos verter sobre una fuente amplia en una  capa fina. Enfriará en cuestión de 15-20 minutos. Separamos las yemas de las claras de los huevos. Montamos las claras a punto de nieve ligero y reservamos. A continuación batimos las yemas  con el azúcar hasta blanquear y que el azúcar se disuelva completamente, que no se note el granillo. La crema quedará con un color amarillo pálido. Removemos el queso mascarpone para que sea más fácil incorporar a las yemas azucaradas. Lo haremos mezclando, sin batir, y con movimientos  suaves y envolventes. Por últimos añadimos las claras y mezclamos suavemente, continuando con los movimientos envolventes. Con ello conseguimos una textura suave, cremosa y etérea, que mantiene el aire incorporado con el batido. Mojamos los bizcochos en el café frío y los colocamos en la base de  un molde cuadrado o rectangular. Extendemos una capa de crema de huevo y mascarpone por encima, bien repartida por toda la superficie. Repetimos el proceso y terminamos con una capa de crema. Espolvoreamos con una fina capa de cacao en polvo puro, tamizando con un colador, y dejamos reposar en la nevera hasta el día siguiente. En el momento de servir, retiramos de la nevera 10 o 15 minutos antes y espolvoreamos con otra capa fina de cacao en polvo."
+    },
+    {
+      "id": 2,
+      "name": "Fabada",
+      "tiempo": "00:20 min",
+      "favorito":false,
+      "description": "La fabada es un guiso típico de la cocina asturiana, ideal para los dias frios",
+      "image":"/img/fabada.JPG",
+      "ingredientes": [
+      { "name": "fabes", "quantity": "500g" },
+        { "name": "chorizo", "quantity": "1ud" },
+        { "name": "morcilla", "quantity": "1ud" },
+        { "name": "Panceta", "quantity": "1ud" },
+        { "name": "cebolla", "quantity": "1/2ud" },
+        { "name": "ajo", "quantity": "2 dientes" },
+        { "name": "laurel", "quantity": "1ud" },
+        { "name": "Pimentón", "quantity": "1ud" },
+        { "name": "aceite de oliva", "quantity": "" },
+        { "name": "sal", "quantity": "al gusto" }
+      ],
+      "pasos":"Primero hay que poner las fabes en remojo durante al menos 12 horas. Después, en una olla grande, se colocan las fabes junto con el chorizo, la morcilla, la panceta, el hueso de jamón, la cebolla y los ajos enteros, la hoja de laurel, un poco de pimentón y sal. Se cubren con agua fría y se lleva a ebullición. Una vez que hierva, se baja el fuego y se cocina a fuego lento durante unas 2-3 horas, añadiendo agua si es necesario para que las fabes siempre estén cubiertas. A mitad de la cocción, puedes añadir un poco de azafrán o colorante para darle color. Cuando las fabes estén tiernas, el caldo espeso y los embutidos bien cocidos, la fabada estará lista para servir."
+    },
+    {
+      "id": 3,
+      "name": "Tarta de manzana",
+      "tiempo": "00:25min",
+      "favorito":false,
+      "description": "La tarta de manzana un postre clásico y reconfortante, ideal para cualquier ocasión. ",
+      "image":"/img/tarta.JPG",
+      "ingredientes": [
+      { "name": "manzana", "quantity": "3ud" },
+        { "name": "harina", "quantity": "100gr" },
+        { "name": "azucar", "quantity": "50gr" },
+        { "name": "mantequilla ", "quantity": "50gr" },
+        { "name": "huevos", "quantity": "2ud" },
+        { "name": "leche", "quantity": "50ml" },
+        { "name": "levadura en polvo", "quantity": "1 cucharada" },
+        { "name": "Canela", "quantity": "al gusto" }
+      ],
+      "pasos":"Mezcla la harina con la levadura y el azúcar. Agrega la mantequilla derretida, el huevo y la leche, mezclando hasta obtener una masa homogénea. Vierte en un molde pequeño engrasado. Corta la manzana en láminas finas y colócala sobre la masa. Espolvorea con azúcar y canela. Hornea a 180 °C durante 25-30 minutos, hasta que esté dorada. Deja enfriar y disfruta."
+    },
+    {
+      "id": 4,
+      "name": "Croquetas de jamon",
+      "tiempo": "00:15 min",
+      "favorito":false,
+      "description": "El tiramisú es un postre clásico de la cocina italiana, conocido por su sabor suave y cremoso.",
+      "image": "/img/croquetas.JPG",
+      "ingredientes": [
+      { "name": "jamon serrano", "quantity": "100gr" },
+        { "name": "harina", "quantity": "50gr" },
+        { "name": "mantequilla", "quantity": "50gr" },
+        { "name": "huevos", "quantity": "1ud" },
+        { "name": "leche", "quantity": "250ml" },
+        { "name": "Pan rallado", "quantity": "para rebozar" }
+      ],
+      "pasos":"Derrite la mantequilla en una sartén, añade la harina y cocina un minuto. Incorpora la leche poco a poco, removiendo hasta obtener una bechamel espesa. Agrega el jamón picado, sal y nuez moscada. Deja enfriar en la nevera. Forma las croquetas, pásalas por huevo batido y pan rallado. Fríelas en aceite caliente hasta que estén doradas. Escurre sobre papel absorbente y sirve calientes."
+    },
+    {
+      "id": 5,
+      "name": "Magdalenas",
+      "tiempo": "00:20 min",
+      "favorito":false,
+      "description": "Las magdalenas son un tipo de pastelito tradicional de la repostería española, ligero y esponjoso.",
+      "image":"/img/captura4.JPG",
+      "ingredientes": [
+      { "name": "ralladura de limón", "quantity": "1ud" },
+        { "name": "harina", "quantity": "75gr" },
+        { "name": "aceite", "quantity": "50gr" },
+        { "name": "azucar", "quantity": "50gr" },
+        { "name": "leche", "quantity": "50ml" }
+      ],
+      "pasos":"Bate el huevo con el azúcar hasta que espume. Añade el aceite y la leche, mezclando bien. Incorpora la harina tamizada con la levadura y la ralladura de limón o vainilla. Reparte la masa en moldes llenándolos hasta ¾ de su capacidad. Hornea a 180 °C durante 15-18 minutos hasta que estén doradas. Deja enfriar y disfruta."
+    },
+    {
+      "id": 5,
+      "name": "Paella Valenciana",
+      "tiempo": "00:45 min",
+      "favorito":false,
+      "description": "La paella valenciana es uno de los platos más emblemáticos de la gastronomía española.",
+      "image":"/img/paella.JPG",
+      "ingredientes": [
+      { "name": "arroz", "quantity": "150gr" },
+        { "name": "agua", "quantity": "300ml" },
+        { "name": "pollo", "quantity": "100gr" },
+        { "name": "conejo", "quantity": "100gr" },
+        { "name": "judia verde", "quantity": "50gr" },
+        { "name": "garrofon", "quantity": "30gr" },
+        { "name": "pimenton", "quantity": "" },
+        { "name": "azafran", "quantity": "" },
+        { "name": "sal", "quantity": "" },
+        { "name": "tomate", "quantity": "1ud" }
+      ],
+      "pasos":"En una paellera con aceite, dora el pollo y el conejo. Añade la judía verde y sofríe unos minutos. Incorpora el tomate rallado y el pimentón, removiendo bien. Agrega el caldo caliente y el garrofón, dejando hervir unos minutos. Echa el arroz en forma de cruz y reparte sin remover. Cocina a fuego medio 10 minutos y luego a fuego bajo otros 8-10 minutos hasta que el caldo se evapore. Deja reposar 5 minutos antes de servir."
+    },
+    {
+      "id": 7,
+      "name": "Creme brulee",
+      "tiempo": "01:30min",
+      "favorito":false,
+      "description": "La crème brûlée es un postre clásico francés que consiste en una suave crema de vainilla cubierta con una capa crujiente de caramelo.",
+      "image":"/img/captura5.JPG",
+      "ingredientes": [
+      { "name": "nata para montar", "quantity": "200ml" },
+        { "name": "yemas de huevo", "quantity": "2ud" },
+        { "name": "esencia de vainilla", "quantity": "1 cucharada" },
+        { "name": "azucar", "quantity": "50gr" }
+      ],
+      "pasos":"Calienta la nata con la vainilla sin que hierva. En un bol, bate las yemas con el azúcar hasta que blanqueen. Añade la nata caliente poco a poco sin dejar de remover. Reparte la mezcla en ramequines y hornea al baño maría a 150 °C durante 30-35 minutos, hasta que cuaje. Deja enfriar y refrigera al menos 2 horas. Antes de servir, espolvorea azúcar por encima y carameliza con un soplete o bajo el grill del horno."
+    },
+    {
+      "id": 8,
+      "name": "Ratatouille",
+      "tiempo": "00:40min",
+      "favorito":false,
+      "description": "El ratatouille es un guiso tradicional de la Provenza francesa que combina una mezcla de verduras.",
+      "image":"/img/ratatuille.JPG",
+      "ingredientes": [
+        { "name": "berenjena", "quantity": "1ud" },
+          { "name": "calabacin", "quantity": "1ud" },
+          { "name": "pimiento rojo y verde", "quantity": "1ud" },
+          { "name": "tomate", "quantity": "1ud" },
+          { "name": "cebolla", "quantity": "1/2ud" },
+          { "name": "diente de ajo", "quantity": "1ud" },
+          { "name": "aceite de oliva", "quantity": "2 cucharadas" },
+          { "name": "sal", "quantity": "al gusto" }
+        ],
+        "pasos":"Corta todas las verduras en rodajas finas. Sofríe la cebolla y el ajo picados en una sartén con aceite. Añade los pimientos y cocina unos minutos. Incorpora el tomate triturado y condimenta con sal, pimienta y tomillo. En una fuente para horno, alterna las rodajas de berenjena, calabacín y pimientos sobre la salsa. Rocía con un poco de aceite y hornea a 180 °C durante 30-35 minutos. Sirve caliente o templado."
+    }
+  ]
+  

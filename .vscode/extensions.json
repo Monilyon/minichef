@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", // Prettier
+    "bierner.lit-html" // vscode-lit-html
+  ],
+  "unwantedRecommendations": []
+}

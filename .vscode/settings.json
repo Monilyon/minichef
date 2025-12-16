@@ -1,0 +1,12 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.htmlWhitespaceSensitivity": "ignore",
+  "prettier.embeddedLanguageFormatting": "auto",
+  "prettier.tabWidth": 2,
+  "prettier.singleQuote": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+  // "prettier.prettierPath": "./node_modules/prettier"
+}
