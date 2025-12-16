@@ -3,6 +3,7 @@
 Minichef es una plataforma web interactiva creada para poner en práctica los conocimientos adquiridos en el curso de **Diseño de Interfaces Web**. Esta página web permite a los usuarios descubrir nuevas recetas, guardarlas como favoritas y explorar una variedad de platos gastronómicos.
 
 ## Descripción del Proyecto
+El logotipo es un diseño propio creado especificamente para el proyecto.
 
 Minichef es una página que presenta diferentes recetas de cocina organizadas en un formato fácil de usar. Los usuarios deben iniciar sesión para acceder a las recetas y funcionalidades adicionales. El proyecto tiene tres secciones principales en el **header**:
 
