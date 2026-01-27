@@ -1,5 +1,7 @@
 # Minichef - Proyecto de Recetas de Cocina
 
+## Diseño del proyecto en figma: [Wireframe del proyecto](https://www.figma.com/design/vXdqhzPsHMwEpZnl6VA8Nr/mockup-tfg?m=auto&t=Qzfrf0R1OSuLxoOJ-6 )
+
 Minichef es una plataforma web interactiva creada para poner en práctica los conocimientos adquiridos en el curso de **Diseño de Interfaces Web**. Esta página web permite a los usuarios descubrir nuevas recetas, guardarlas como favoritas y explorar una variedad de platos gastronómicos.
 
 ## Descripción del Proyecto
